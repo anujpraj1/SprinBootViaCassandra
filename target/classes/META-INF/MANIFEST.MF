@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootassessment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anuj Kumar Prajapati
+Implementation-Vendor-Id: com.springboot.assessment
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springbootassessment
+Created-By: Maven Integration for Eclipse
+
